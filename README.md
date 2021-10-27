@@ -1,4 +1,4 @@
-# GitHub Classroom Plantilla de entrega
+# GitHub Classroom Plantilla de Entrega
 **Template tarea para subir subir nuestros trabajos, prácticas o exámenes a repositorios de GitHub Classroom**
 
 ![imagen](https://github.blog/wp-content/uploads/2019/08/github-classroom-1200-630.png)
