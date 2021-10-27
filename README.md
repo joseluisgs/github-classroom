@@ -10,7 +10,7 @@ Para elo recibirás el enlace al la entrega de GitHub Classroom
 ### 1 Una vez reciba mi enlace de entrega
 Con mi enlace de entrega, que puede ser de esta forma parecida: https://classroom.github.com/a/DygYDUJS debes proceder así:
 - Pincho y acepto la asignación del mismo
-- Sete indicará que se está configurando tu repositorio y que puede llevar unos momentos. Se te indicará la fecha de entrega máxima para la cual estará abierto. Debes refrescar la página para ver si todo está listo.
+- Se te indicará que se está configurando tu repositorio y que puede llevar unos momentos. Se te indicará la fecha de entrega máxima para la cual estará abierto. Debes refrescar la página para ver si todo está listo.
 - Una vez hayas refrescado y esté todo listo, te dará la dirección del repositorio donde debes trabajar, por ejemplo: https://github.com/IESLuisVives/prueba-joseluisgs (llevará tu nombre de usuario de GitHub). 
 - Clonamos nuestro nuevo repositorio de entrega con git clone url. No lo hagas directamente con GitKraken porque no podrás clonarlo así.
 - Una vez clonado en tu disco duro, ya podrás abrirlo con GitKraken si quieres.
