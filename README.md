@@ -24,7 +24,8 @@ Lo primero que debes hacer es completar el fichero [ALUMNO.md](ALUMNO.md) añadi
 
 ### 3 Trabajando
 Puedes trabajar o crear tu proyecto aquí o copiarlo de otro lado porque lo tienes en otro directorio. Para ello:
-- si vas a usar otra rama, o decides usar la rama develop, quizás debas hacer Pull Request a la main, si no te deja hacer merge. Te lo recordaré más adelante, Es recomendable usar otra rama, así si te equivocas no habrás ensuciado la main. No es obligatorio. También puedes crear otras ramas siempre que quieras y lo necesites.
+- Puedes usar tu proyecto propio y una vez terminado copiarlo aquí en la rama main
+- Puedes tener problemas si vas a usar otra rama, aun así puedes hacerlo. Si vas a usar otra rama, o decides usar la rama develop, quizás debas hacer Pull Request a la main, si no te deja hacer merge. Si ves que no te sale, copia todo lo de esa rama a la rama main. Te lo recordaré más adelante, Es recomendable usar otra rama, así si te equivocas no habrás ensuciado la main. No es obligatorio. También puedes crear otras ramas siempre que quieras y lo necesites, pero todo el código final debe estar en main.
 - Usa Git todo lo que puedas, ya sabes, add, commit, reset, restore para trabajar y sobre todo en las partes fundamentales por si necesitas regresar a algún commit ya sea por fallo, o copia de seguridad, o lo que necesites.
 
 ### 4 Entregando
