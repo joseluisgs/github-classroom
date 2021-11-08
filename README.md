@@ -12,7 +12,7 @@ Para participar en esta entrega, primero debes recibir el enlace al la entrega d
 
 ### 1 Una vez reciba mi enlace de entrega
 Con mi enlace de entrega, que puede ser de esta forma parecida https://classroom.github.com/a/DygYDUJS debes proceder así:
-- Pincho y acepto la asignación del mismo.
+- Pincha y acepta la asignación del mismo.
 - Se te indicará que se está configurando tu repositorio y que puede llevar unos momentos. Se te indicará la fecha de entrega máxima para la cual estará abierto. Debes refrescar la página para ver si todo está listo.
 - Una vez hayas refrescado y esté todo listo, te dará la dirección del repositorio donde debes trabajar, por ejemplo: https://github.com/IESLuisVives/prueba-joseluisgs (llevará tu nombre de usuario de GitHub). 
 - Clonamos nuestro nuevo repositorio de entrega con git clone url. No lo hagas directamente con GitKraken porque no podrás clonarlo así.
@@ -24,7 +24,7 @@ Lo primero que debes hacer es completar el fichero [ALUMNO.md](ALUMNO.md) añadi
 
 ### 3 Trabajando
 Puedes trabajar o crear tu proyecto aquí o copiarlo de otro lado porque lo tienes en otro directorio. Para ello:
-- Puedes usar tu proyecto propio y una vez terminado copiarlo aquí en la rama main
+- Puedes usar tu proyecto propio y una vez terminado copiarlo aquí en la rama main.
 - Puedes tener problemas si vas a usar otra rama, aun así puedes hacerlo. Si vas a usar otra rama, o decides usar la rama develop, quizás debas hacer Pull Request a la main, si no te deja hacer merge. Si ves que no te sale, copia todo lo de esa rama a la rama main. Te lo recordaré más adelante, Es recomendable usar otra rama, así si te equivocas no habrás ensuciado la main. No es obligatorio. También puedes crear otras ramas siempre que quieras y lo necesites, pero todo el código final debe estar en main.
 - Usa Git todo lo que puedas, ya sabes, add, commit, reset, restore para trabajar y sobre todo en las partes fundamentales por si necesitas regresar a algún commit ya sea por fallo, o copia de seguridad, o lo que necesites.
 
