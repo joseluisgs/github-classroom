@@ -28,7 +28,7 @@ Puedes trabajar o crear tu proyecto aquí o copiarlo de otro lado porque lo tien
 - Usa Git todo lo que puedas, ya sabes, add, commit, reset, restore para trabajar y sobre todo en las partes fundamentales por si necesitas regresar a algún commit ya sea por fallo, o copia de seguridad, o lo que necesites.
 
 ### 4 Entregando
-- Cuando lo tengas todo listo, si tienes alguna rama fusiónala (git merge) a develop, y de develop a main. Si no te deja, desde la web hazle un pull request a la rama main del mismo. Si no te deja o no sabes, copia todo en la rama main. 
+- Cuando lo tengas todo listo, si tienes alguna rama fusiónala (git merge) a develop, y de develop a main. Si no te deja, desde la web hazle un pull request a la rama main del mismo. Si no te deja o no sabes, **copia todo en la rama main desde tu proyecto**. 
 - Cambia a la rama principal si estabas en otra si no lo has hecho antes: git checkout main
 - Haz commit en la rama main con el código final de entrega: git commit -m y pon tu nombre y apellido y curso como mensaje.
 - Sube los cambios con git push origin main
