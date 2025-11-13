@@ -31,9 +31,10 @@ Puedes trabajar o crear tu proyecto aquí o copiarlo de otro lado porque lo tien
 ### 4 Entregando
 - Cuando lo tengas todo listo, si tienes alguna rama fusiónala (git merge) a develop, y de develop a main. Si no te deja, desde la web hazle un pull request a la rama main del mismo. Si no te deja o no sabes, **copia todo en la rama main desde tu proyecto**. 
 - Cambia a la rama principal si estabas en otra si no lo has hecho antes: git checkout main
+- Haz un merge desde la rama donde has trabajado, para que el codigo y ficheros finales que quieras entregar estén en `main/master`
 - Haz commit en la rama main con el código final de entrega: git commit -m y pon tu nombre y apellido y curso como mensaje.
 - Sube los cambios con git push origin main
-- Crea una etiqueta v1.0.0 con tu nombre y apellido y curso. git tag -a v1.0 -m "Nombre Apellido 1DAM/2DAM"
+- Crea una etiqueta v1.0.0 con tu nombre y apellido y curso. git tag -a v1.0 -m "Nombre Apellido 1DAW/2DAW"
 - Subimos la etiqueta: git push origin <tag_name>, por ejemplo git push origin v.1.0
 - OJO si por lo que sea vas a hacer varias entregas repite los pasos necesarios pero siempre incrementa la versión. Por ejemplo, 1.1, 1.2, 1.3, 1.4...
 - Si tienes dudas, pregunta a tu profesor sobre la entrega.
