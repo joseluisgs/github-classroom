@@ -2,9 +2,9 @@
 
 Nombre: Tu nombre y Dos apellidos
 
-Curso: 1DAM o 2DAM
+Curso: 1DAW o 2DAW
 
-Email: tu email de contacto
+Email: tu email de IES Luis Vives o EducaMadrid
 
 Nick GitHub: Tu nick de GitHub
 
